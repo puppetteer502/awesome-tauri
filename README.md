@@ -385,6 +385,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Qopy](https://github.com/0PandaDEV/Qopy) - The fixed Clipboard Manager for Windows and Mac.
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
 - [Runtime](https://github.com/runtime-org/runtime) ![v2] - AI taskmate for web & office tools.
+- [Shell360](https://github.com/nashaofu/shell360) ![v2] - Cross-platform open-source SSH and SFTP client with port forwarding and encrypted data storage, designed for developers and system administrators.
 - [Takma](https://github.com/jam53/Takma) - Kanban-style to-do app, fully offline with support for Markdown, labels, due dates, checklists and deep linking.
 - [Tencent Yuanbao](https://yuanbao.tencent.com/) ![closed source] - Tencent Yuanbao is an AI application based on Tencent Hunyuan large model. It is an all-round assistant that can help you with writing, painting, copywriting, translation, programming, searching, reading and summarizing.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
@@ -459,6 +460,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
 - [SlimeVR Server](https://github.com/SlimeVR/SlimeVR-Server) - Server app for SlimeVR, facilitating full-body tracking in virtual reality.
+- [Sofast](https://sofast.fun) ![closed source] - A cross-platform Raycast-like app.
 - [SoulFire](https://github.com/AlexProgrammerDE/SoulFireClient) - Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
 - [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 - [Stacks](https://github.com/cablehead/stacks) - Modern and capable clipboard manager for macOS. Seeking Linux and Windows contributions.
@@ -473,7 +475,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
 - [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
-- [Sofast](https://sofast.fun) ![closed source] - A cross-platform Raycast-like app.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
