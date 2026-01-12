@@ -126,6 +126,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-theme](https://github.com/wyhaya/tauri-plugin-theme) - Dynamically change Tauri App theme.
 - [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) - UDP socket support.
 - [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
+- [tauri-remote-ui](https://github.com/DraviaVemal/tauri-remote-ui) - Make you web app bundle available as web page for test and development.
 - [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
 
 ### Integrations
