@@ -180,7 +180,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [PunyTunes](https://github.com/mjoblin/punytunes) ![v1] - Control StreamMagic music streamers from the system tray.
-- [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps based on all your screens & mics context.
+- [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps with full context. Works with Ollama.
 - [SilentKeys](https://github.com/gptguy/silentkeys) ![v2] - Privacy-first, real-time dictation app built with Tauri, powered by `Parakeet ASR`, `Silero-VAD`, and on-device inference via `ORT`.
 - [ToneTempo](https://tonetempo.com) ![closed source] ![paid] - Workout and run with AutoMixed music and an AI fitness coach.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
