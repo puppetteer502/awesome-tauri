@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "awesome-lint README.md"
   },
-  "repository": {
+  "repository": { 
     "type": "git",
     "url": "git+https://github.com/tauri-apps/awesome-tauri.git"
   },
